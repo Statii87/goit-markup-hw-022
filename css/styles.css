@@ -122,6 +122,7 @@ footer{
     font-size: 16px;
     line-height: 1.62;
     background-color: #F5F4FA;
+    color: #212121;
 }
 .project-examples:hover,
 .project-examples:focus,
